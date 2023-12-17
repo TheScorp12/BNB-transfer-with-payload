@@ -1,0 +1,17 @@
+{
+    "abi" : [
+        {
+		"inputs": [
+			{
+				"internalType": "address payable",
+				"name": "_address",
+				"type": "address"
+			}
+		],
+		"name": "execute",
+		"outputs": [],
+		"stateMutability": "payable",
+		"type": "function"
+    }
+    ]
+}
